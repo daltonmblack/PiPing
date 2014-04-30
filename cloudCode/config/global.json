@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "PiPing": {
+            "applicationId": "ZSBfHVbviid1czar7Pz9fsUbyQIri7N9LSKF3XOK", 
+            "masterKey": "dqd0W7znc8bqrmPhAl07aYHuGuaM8BQJPTOpKlXu"
+        }, 
+        "_default": {
+            "link": "PiPing"
+        }
+    }
+}
